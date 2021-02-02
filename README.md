@@ -1,7 +1,10 @@
-## Getting Started
+## So, what is it?
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A 3D viewer application written in Java (no external dependencies). 
 
+### How does it work?
+
+Using orthographic projection on a shape (in my case, a triangle) with some rasterisation added. Initial vectors are multiplied by a 3x3 Matrix to get the 3D point transformation
 ## Folder Structure
 
 The workspace contains two folders by default, where:
